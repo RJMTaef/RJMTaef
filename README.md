@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjmtaef" alt="rjmtaef" /></a> </p>
 
-- 🔭 I’m currently working on **Code smell detection software**
+- 🔭 I’m currently working on **Data Science Skills**
 
-- 🌱 I’m currently learning **Python, MERN stack and DEVOPS approach**
+- 🌱 I’m currently learning **Data Science and Analysis, Python, MERN stack and DEVOPS approach**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
